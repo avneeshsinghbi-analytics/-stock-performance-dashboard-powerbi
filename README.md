@@ -30,4 +30,4 @@ Stock market data for NSE-listed companies (TCS, INFY, RELIANCE)
 
 ## 👤 Author
 Avneesh Singh  
-[LinkedIn](https://linkedin.com/in/avneesh-singh-example) | avneeshsingh@example.com
+[LinkedIn](https://www.linkedin.com/in/avneesh-singh-5048a9254/) | avneeshsingh.bi@gmail.com
